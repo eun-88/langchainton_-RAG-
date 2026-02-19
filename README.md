@@ -35,3 +35,22 @@ graph TD
     C -->|Metadata Tagging| D[Semantic Chunking]
     D --> E[Vector Embedding]
     E --> F[(Vector Database)]
+
+
+## 📂3. Global Fundamental Aviation Rules
+
+## 3-1 . Safety & Security (IATA DGR)
+- **Lithium Batteries:** - < 100Wh: Carry-on Only (Up to 20pcs)
+  - 100Wh ~ 160Wh: Approval Required
+  - > 160Wh: Forbidden
+- **Liquids (LAGs):** 100ml per container, 1L total in a clear bag.
+
+## 3-2. Liability & Compensation (Montreal Convention)
+- **Liability Limit:** Max 1,288 SDR per passenger for destruction, loss, damage, or delay.
+- **Claim Deadlines:**
+  - Damage: Within 7 days
+  - Delay/Loss: Within 21 days
+
+## 3-3. Regional Overrides (US/Canada)
+- **US DOT 399.87:** For itineraries to/from the US, the baggage rules of the **First Marketing Carrier** apply to the entire journey.
+- **Conflict Note:** This rule overrides IATA Resolution 302.
