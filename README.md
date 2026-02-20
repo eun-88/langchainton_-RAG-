@@ -54,3 +54,16 @@ graph TD
 ## 3-3. Regional Overrides (US/Canada)
 - **US DOT 399.87:** For itineraries to/from the US, the baggage rules of the **First Marketing Carrier** apply to the entire journey.
 - **Conflict Note:** This rule overrides IATA Resolution 302.
+
+
+## 📂2/21 변경 항공사별 규정(수하물 무게, 크기, 개수 등)은 제외하고 **'물품 반입 규정(TSA, CBP, 농무부 등)'**에 집중
+
+**RAG 기반 국가 수하물 규정 검증 시스템 구축(2/19변경)** 
+
+- 노선 : 미주노선
+- 미주 노선'만의 특수한 항공사 규정 (데이터의 차별성)을 중점을 두어 선택
+- 추후 노선 및 항공사등 추가 가능 (데이터 확장성)
+
+그중 , ICN-JFK노선을 선택하여 데이터 수집 및 벡터화를 진행한다. 
+
+
